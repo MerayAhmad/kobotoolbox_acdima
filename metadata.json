@@ -1,0 +1,6 @@
+{
+  "name": "شركة أكديما — منصة جمع البيانات الميدانية للأدوية البيطرية",
+  "description": "نظام شركة أكديما المتكامل في سوريا على غرار KoboToolbox لإدارة الاستمارات الميدانية، متابعة مندوبي المبيعات والوكلاء، دراسة السوق، وتحليل بيانات إنتاج وتوزيع الأدوية البيطرية.",
+  "requestFramePermissions": ["geolocation", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
